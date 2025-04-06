@@ -1,0 +1,4 @@
+Numero invalido
+Numero invalido
+
+A soma dos numeros de 1 a 234 é: 13806

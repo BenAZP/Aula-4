@@ -1,0 +1,5 @@
+numero maior: 3
+numero menor: 1
+somatoria: 8
+quantidade: 4
+media: 2.0
